@@ -2,6 +2,8 @@
 
 A **Streamlit-powered** web app that provides insightful analytics and visualizations on your exported WhatsApp chats. Whether you're curious about your chatting habits or exploring NLP and data analysis—this tool brings your conversations to life!
 
+https://whatsapp-chat-analyzer-roomil.streamlit.app/
+
 ---
 
 ## 📌 Features
