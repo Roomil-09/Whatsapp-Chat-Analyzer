@@ -4,7 +4,11 @@ import preprocessor,support
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-st.set_page_config(page_title="WhatsApp Analyzer", layout="wide")
+st.set_page_config(
+    page_title="WhatsApp Analyzer",
+    page_icon="📊",  
+    layout="wide"
+)
 
 st.sidebar.title("Whatsapp Chat Analyzer")
 
